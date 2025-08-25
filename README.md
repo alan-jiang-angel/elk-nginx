@@ -1,5 +1,9 @@
 # Docker Compose for ELK with Nginx
 
+This repo is for running ElasticSearch, Logstash and Kibana with Nginx.
+
+Logstash is configured to log all PM2 logs and Nginx is used for basic Authentication.
+
 
 ## Requirements
 
