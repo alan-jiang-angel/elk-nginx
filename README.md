@@ -10,8 +10,10 @@ https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-o
 
 ```sudo apt install apache2-utils -y```
 
-Create password by running following command. Username is `admin`
+  Create password by running following command. Username is `admin`
+
 ```htpasswd -c nginx/.htpasswd admin```
 
 3. Run docker containers
+
 ```docker compose up -d```
