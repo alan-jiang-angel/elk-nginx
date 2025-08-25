@@ -17,3 +17,7 @@ https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-o
 3. Run docker containers
 
 ```docker compose up -d```
+
+4. Open Kibana
+
+Visit http://YOUR-IP
